@@ -1,0 +1,14 @@
+Version 0
+SymbolType BLOCK
+LINE Normal 112 -148 96 -160
+LINE Normal 96 -160 84 -144
+LINE Normal 84 -144 64 -44
+LINE Normal 64 -44 52 -28
+LINE Normal 52 -28 36 -40
+RECTANGLE Normal 160 -192 0 0
+PIN 0 -96 NONE 8
+PINATTR PinName 1
+PINATTR SpiceOrder 1
+PIN 160 -96 NONE 8
+PINATTR PinName 2
+PINATTR SpiceOrder 2

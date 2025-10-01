@@ -1,0 +1,14 @@
+# ignore everything
+*
+
+# but keep the gitignore itself
+!.gitignore
+
+# allow only these two folders (and all their contents)
+!PK_schematic_symbols/
+!PK_schematic_symbols/*
+!MOSbius_chip/
+!MOSbius_chip/*
+
+# optional common noise
+.DS_Store
